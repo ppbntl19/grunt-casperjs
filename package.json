@@ -41,7 +41,7 @@
     "node": ">= 0.8.0"
   },
   "dependencies": {
-    "phantomjs2": "",
+    "phantomjs2": "2.0.1",
     "casperjs": "git://github.com/n1k0/casperjs.git#master"
   },
   "devDependencies": {
